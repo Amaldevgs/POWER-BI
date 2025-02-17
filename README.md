@@ -1,2 +1,2 @@
-# POWER-BI-
+# POWER-BI
 Power BI Assignments
